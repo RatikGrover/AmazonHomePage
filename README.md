@@ -1,30 +1,36 @@
 # AmazonHomePage
+
 Amazon home page clone with HTML and CSS
 
+## Amazon Homepage Clone Project
 
-Amazon Homepage Clone Project
 This project is a clone of the Amazon homepage, developed for a college assignment and personal learning.
 
-Table of Contents
-1)Demo
-2)Features
-3)Technologies Used
-4)Setup
-5)Usage
-6)Contributing
-7)Demo
-![image](https://github.com/RatikGrover/AmazonHomePage/assets/138134805/aeb16de0-8cd8-4900-800b-f17031bdc44e)
+## Table of Contents
 
+1. [Demo](#demo)
+2. [Features](#features)
+3. [Technologies Used](#technologies-used)
+4. [Setup](#setup)
+5. [Usage](#usage)
+6. [Contributing](#contributing)
 
-Features
-Recreates the layout and design of the Amazon homepage.
-Utilizes HTML and CSS for the frontend.
-Technologies Used
-HTML5
-CSS3
+## Demo
 
-Usage
-This project serves as a personal and academic exercise to practice frontend development skills by cloning a popular website's homepage.
+![AmazonHomePage Demo](https://github.com/RatikGrover/AmazonHomePage/assets/138134805/aeb16de0-8cd8-4900-800b-f17031bdc44e)
 
-Contributing
-Contributions are not expected as this project is for personal and academic purposes only.
+## Features
+
+- Recreates the layout and design of the Amazon homepage.
+- Utilizes HTML and CSS for the frontend.
+
+## Technologies Used
+
+- HTML5
+- CSS3
+
+## Setup
+
+To run this project locally, follow these steps:
+
+1. Clone the repository to your local machine:
