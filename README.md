@@ -12,8 +12,7 @@ This project is a clone of the Amazon homepage, developed for a college assignme
 2. [Features](#features)
 3. [Technologies Used](#technologies-used)
 4. [Setup](#setup)
-5. [Usage](#usage)
-6. [Contributing](#contributing)
+
 
 ## Demo
 
