@@ -6,13 +6,13 @@ Amazon Homepage Clone Project
 This project is a clone of the Amazon homepage, developed for a college assignment and personal learning.
 
 Table of Contents
-Demo
-Features
-Technologies Used
-Setup
-Usage
-Contributing
-Demo
+1)Demo
+2)Features
+3)Technologies Used
+4)Setup
+5)Usage
+6)Contributing
+7)Demo
 ![image](https://github.com/RatikGrover/AmazonHomePage/assets/138134805/aeb16de0-8cd8-4900-800b-f17031bdc44e)
 
 
